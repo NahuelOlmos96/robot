@@ -32,6 +32,7 @@ export const Carrucel = () => {
           </div><div class="carousel-item">
             <img src={imagenes.imagane10} class="d-block w-100" alt="..." />
           </div>
+          
         </div>
         <button
           class="carousel-control-prev"
