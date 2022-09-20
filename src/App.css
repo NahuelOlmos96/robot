@@ -1,0 +1,34 @@
+.App{
+    height: 1000px;
+    padding-top: 10%;
+    background-image: url('./imganes/FONDOPGINAROBOT.S.C_.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: antiquewhite; 
+   
+   
+}
+
+.contendorinformacion{
+    text-align: center;
+    margin: 0;
+}
+.nav-link{
+   
+    color: aliceblue;
+}
+
+.piePagina{
+    height: 200px;
+    padding-top: 100px;
+    text-align: start;
+    color: red !important;
+}
+
+@media only screen and (max-width: 600px) {
+    .contendorinformacion {
+      font-size: 9px ;
+    }
+  }
+    
