@@ -19,7 +19,7 @@ function App() {
             <Link className="nav-link col-xl-1 col-md" to="/">
               INICIO
             </Link>
-            <Link className="nav-link col-xl-1 col-md" to="/informacion">
+            <Link className="nav-link col-xl-1 col-md" to="/servicio">
               SERVICIO
             </Link>  <Link className="nav-link col-xl-1 col-md" to="/contactos">
               CONTACTOS
@@ -29,7 +29,7 @@ function App() {
             <div className="col-xl-6 col-md-12">
               <Routes>
                 <Route path="/" element={<Logo />} />
-                <Route  path="/informacion" element={<Informacion />} />
+                <Route  path="/servicio" element={<Informacion />} />
                 <Route path="/contactos" element={<Contactos />} />
               </Routes>
             </div>
