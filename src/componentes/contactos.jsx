@@ -3,7 +3,7 @@ import "../estilos/contactos.css"
 import whatapp from "../imganes/whatapp.png";
 import tiktok from "../imganes/tiktok.png";
 import instagram from "../imganes/instagram.png";
-import youtube from "../imganes/instagram.png";
+
 
 
 function Contactos() {
