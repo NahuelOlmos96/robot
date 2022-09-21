@@ -29,7 +29,7 @@ function App() {
             <div className="col-xl-6 col-md-12">
               <Routes>
                 <Route path="/" element={<Logo />} />
-                <Route path="/informacion" element={<Informacion />} />
+                <Route  path="/informacion" element={<Informacion />} />
                 <Route path="/contactos" element={<Contactos />} />
               </Routes>
             </div>

@@ -7,9 +7,12 @@
     scroll-behavior: unset;
     text-transform: capitalize;
 }
+.textlink{
+    font-size: 10px !important;
+}
 .interiorcontactos{
     animation: animacioncontactos;
-    animation-duration: 3s;
+    animation-duration: 1s;
 }
 @keyframes animacioncontactos {
         0%{
@@ -19,4 +22,9 @@
         100%{
             opacity: 1;
         }
+}
+@media only screen and (max-width: 500px){
+    .textlink{
+        font-size: 4px !important;
+    }
 }

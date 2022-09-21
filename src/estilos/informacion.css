@@ -18,3 +18,17 @@
     text-transform: capitalize;
     
 }
+
+.contenedoranimado{
+    animation: inicio 1s;
+}
+
+@keyframes inicio {
+
+    0%{
+        opacity: 0;
+        translate: 10px;        
+    }
+    100%{
+    }
+}

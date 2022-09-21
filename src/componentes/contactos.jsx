@@ -19,10 +19,10 @@ function Contactos() {
                     <a href='https://www.tiktok.com/@robotshowcordoba_' className='col-3'><img src="https://icones.pro/wp-content/uploads/2021/02/youtube-logo-icone.png" class=" col-12" alt="..." /></a>
                 </div>
                 <div className='row col'>
-                    <p href='https://wa.me/message/XA6YXL5CGTUAD1' className='col-3'>whatapp</p>
-                    <p href='https://www.instagram.com/robotshowcordoba/' className='col-3'>@robotshowcordoba</p>
-                    <p href='https://www.tiktok.com/@robotshowcordoba_' className='col-3'>robotshowcordoba_</p>
-                    <p href='https://www.tiktok.com/@robotshowcordoba_' className='col-3'>robot show cordoba</p>
+                    <p href='https://wa.me/message/XA6YXL5CGTUAD1' className='textlink col-3'>whatapp</p>
+                    <p href='https://www.instagram.com/robotshowcordoba/' className='textlink col-3'>@robotshowcordoba</p>
+                    <p href='https://www.tiktok.com/@robotshowcordoba_' className='textlink col-3'>robotshowcordoba_</p>
+                    <p href='https://www.tiktok.com/@robotshowcordoba_' className='textlink col-3'>robot show cordoba</p>
 
                 </div>
                 <div>   </div>
