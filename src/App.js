@@ -6,6 +6,7 @@ import { Informacion } from "./componentes/informacion";
 import { Link, BrowserRouter, Route, Routes } from "react-router-dom";
 import { Carrucel } from "./componentes/carrucel";
 import Contactos from "./componentes/contactos";
+import { CarrucelVideos } from "./componentes/carrucelVideo";
 
 
 
@@ -37,8 +38,10 @@ function App() {
             </div>
           </div>
         </BrowserRouter>
+
+        <CarrucelVideos/>
         <div className="piePagina">
-          tecnologia diversion para tu fiesta. show para todo tipo de evento
+          LEVANTAMOS TU FIESTA
         </div>
         
       </div>
