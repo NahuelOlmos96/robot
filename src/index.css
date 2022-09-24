@@ -1,9 +1,7 @@
 body {
   background-image: url('./imganes/FONDOPGINAROBOT.S.C_.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    
+    background-size: 100%;
+   
 }
 
 code {

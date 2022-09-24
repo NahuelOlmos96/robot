@@ -40,9 +40,7 @@ function App() {
         </BrowserRouter>
 
         <CarrucelVideos/>
-        <div className="piePagina">
-          LEVANTAMOS TU FIESTA
-        </div>
+        
         
       </div>
     </div>
