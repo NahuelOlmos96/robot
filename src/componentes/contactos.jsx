@@ -15,13 +15,13 @@ function Contactos() {
                     <h1>redes</h1>
                     <a href='https://wa.me/message/XA6YXL5CGTUAD1' className='col-3' target="_blank" rel="noreferrer noopener" ><img src={whatapp} class=" col-12" alt="..." /></a>
                     <a href='https://www.instagram.com/robotshowcordoba/' className='col-3' target="_blank" rel="noreferrer noopener" ><img src={instagram} class=" col-12" alt="..." /></a>
-                    <a href='https://www.facebook.com/RobotShowCordoba' className='col-3' target="_blank" rel="noreferrer noopener" ><img src={facebook} class=" col-12" alt="..." /></a>
+                    <a href='https://www.tiktok.com/@robotshowcordoba?_t=8WlzzyAZzkc&_r=1' className='col-3' target="_blank" rel="noreferrer noopener" ><img src="https://cdn-icons-png.flaticon.com/512/3046/3046126.png"class=" col-12" alt="..." /></a>
                     <a href='https://www.youtube.com/channel/UCDrc6NAaeJCSijE-WgkHe9Q' className='col-3' target="_blank" rel="noreferrer noopener" ><img src="https://icones.pro/wp-content/uploads/2021/02/youtube-logo-icone.png" class=" col-12" alt="..." /></a>
                 </div>
                 <div className='row col'>
                     <p href='https://wa.me/message/XA6YXL5CGTUAD1' className='textlink col-3' target="_blank" rel="noreferrer noopener" >whatapp</p>
                     <p href='https://www.instagram.com/robotshowcordoba/' className='textlink col-3' target="_blank" rel="noreferrer noopener" >@robotshowcordoba</p>
-                    <p href='https://www.facebook.com/RobotShowCordoba' className='textlink col-3' target="_blank" rel="noreferrer noopener" >Robot Show Córdoba</p>
+                    <p href='https://www.tiktok.com/@robotshowcordoba?_t=8WlzzyAZzkc&_r=1' className='textlink col-3' target="_blank" rel="noreferrer noopener" >@RobotShowCórdoba</p>
                     <p href='https://www.youtube.com/channel/UCDrc6NAaeJCSijE-WgkHe9Q' className='textlink col-3' target="_blank" rel="noreferrer noopener" >robot show cordoba</p>
 
                 </div>
@@ -32,10 +32,12 @@ function Contactos() {
                     19:30 a 21:30 <br />
                     <div>---</div>
                     Jueves <br />
-                    13:00 a 15:00 <br />
+                    19:30 a 21:30 <br />
+                
+                    <div>---</div>
+                    Viernes<br />
                     19:30 a 21:30 <br />
                     <div>---</div>
-
                     Sábados <br />
                     13:00 a 15:00 <br />
                     19:30 a 21:30 <br />
