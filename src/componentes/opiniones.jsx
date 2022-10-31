@@ -24,6 +24,17 @@ export const Opiniones = () => {
           </span>
         </button>
       </a>
+      <p></p>
+      <br />
+      <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTU4MDY0OTM2NDg1MDIy?story_media_id=2952931443563498833_21934120250&igshid=MDJmNzVkMjY="  rel={"noreferrer"} target={"_blank"}>
+        <button data-text="Awesome" class="button">
+          <span class="actual-text">&nbsp;Audios&nbsp;</span>
+          <span class="hover-text" aria-hidden="true">
+            &nbsp;Audios&nbsp;
+          </span>
+        </button>
+      </a>
     </div>
   );
 };
+
