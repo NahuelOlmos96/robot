@@ -40,3 +40,14 @@
     width: 100%;
     filter: drop-shadow(0 0 23px var(--animation-color))
   }
+
+  .contenedorOpiniones{
+    padding: 10px 0px 10px ;
+    width: 100%;
+    height: 400px;
+    display: block;
+    text-align: start;
+    overflow-y: scroll;
+    scroll-behavior: unset;
+    text-transform: capitalize;
+  }
